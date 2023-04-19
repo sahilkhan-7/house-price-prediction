@@ -1,0 +1,25 @@
+Q 1 : What is Linear Regression?
+Ans : A supervised learning algorithm used for regression problems.
+
+Q 2 : Which of the following is NOT an assumption of Linear Regression?
+Ans : Linearity
+
+Q 3 : What is Multiple Regression?
+Ans : A supervised learning algorithm used for regression problems involving multiple
+independent variables.
+
+Q 4 : Which of the following is an advantage of Multiple Regression over Simple Linear
+Regression?
+Ans : More accurate predictions
+
+Q 5 : What is Polynomial Regression?
+Ans : A supervised learning algorithm used for regression problems that model the
+relationship between the response variable and the independent variable as an nth
+degree polynomial.
+
+Q 6 : Which of the following is NOT an assumption of Polynomial Regression?
+Ans : Homoscedasticity
+
+Q 7 : What is the coefficient of determination (R-squared) used for in Linear Regression?
+Ans : To measure the goodness of fit of the model.
+
